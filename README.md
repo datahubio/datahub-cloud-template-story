@@ -18,6 +18,15 @@ In this data-driven journey, you'll explore:
 - Real-World Impacts: See how data influences our daily lives, drives decision-making, and shapes the future.
 - Expert Insights: Benefit from in-depth analysis and commentary from leading data scientists and industry experts.
 
+> [!important]
+> I am saying something important here!
+
+> [!warning]
+> Just testing some callout blocks here.
+
+> [!done]
+> Test passed.
+
 ## Okay, I published the template. Now what?
 
 You can add as many markdown files to your GitHub repository as you like, and you can freely nest them in subdirectories. You can also enhance your content with data visualisation components and markdown features.
@@ -45,15 +54,6 @@ You can add as many markdown files to your GitHub repository as you like, and yo
 <div class="middle-button-container">
     <a href="https://datahub.io/@olayway/docs/Configuring%20Nav%20bar%20and%20SEO%20fields" class="middle-button">How to Configure Basic SEO Fields and Nav Bar</a>
 </div>
-
-> [!important]
-> I am saying something important here!
-
-> [!warning]
-> Just testing some callout blocks here.
-
-> [!done]
-> Test passed.
 
 ## Testing data-rich components
 
