@@ -71,8 +71,8 @@ I will add a data table from my data.csv file below:
     url: 'data.csv'
   }}
   title="Salary per age"
-  xAxis="age"
-  yAxis="salary"
+  xAxis="Year of Birth"
+  yAxis="Salary"
 />
 
 If you want to explore more of what's possible:
