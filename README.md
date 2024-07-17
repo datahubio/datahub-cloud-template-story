@@ -70,9 +70,9 @@ I will add a data table from my data.csv file below:
   data={{
     url: 'data.csv'
   }}
-  title="C02 PPM per decade"
-  xAxis="year"
-  yAxis="co2"
+  title="Salary per age"
+  xAxis="salary"
+  yAxis="age"
 />
 
 If you want to explore more of what's possible:
