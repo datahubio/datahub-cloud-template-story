@@ -20,30 +20,15 @@ In this data-driven journey, you'll explore:
 
 ## Okay, I published the template. Now what?
 
-You can add as many markdown files to your GitHub repository as you like, and you can freely nest them in subdirectories. You can also enhance your content with other data visualisation components and markdown features.
+You can add as many markdown files to your GitHub repository as you like, and you can freely nest them in subdirectories. You can also enhance your content with data visualisation components and markdown features.
 
 > Note: For a full list of supported markdown features visit [Markdown syntax support](https://datahub.io/@olayway/docs/Markdown%20syntax%20support)
 
-Here are some quick examples:
-
-> [!info] This is cool!
-> Here's a callout block.
-> It supports **markdown** and ```[[Internal link|wikilinks]]```.
-
-Or you can quickly embed a piece of code as follows:
-
-```
-const ExampleCode = () => {
-  return <div> .... </div>;
-};
-```
-
 ### How to take this template to the next level
 
-> [!note]
-> The template works best for datasets. If you don't have any data files, we suggest deleting the frontmatter and following this [quick tutorial on publishing data-rich stories](https://datahub.io/@olayway/docs/Publish%20data-rich%20stories)
-
-You may also want to check out: 
+<div class="middle-button-container">
+    <a href="https://datahub.io/@olayway/docs/Publish%20data-rich%20stories" class="middle-button">How to publish data-rich stories</a>
+</div>
 
 <div class="middle-button-container">
     <a href="https://datahub.io/@olayway/docs/Customize%20Your%20DataHub%20Cloud%20Site%20with%20CSS" class="middle-button">Customize your site with CSS and HTML</a>
@@ -62,7 +47,7 @@ You may also want to check out:
 </div>
 
 > [!important]
-> For any questions, refer to the [Docs](https://datahub.io/@olayway/docs)
+> I am saying something important here!
 
 > [!warning]
 > Just testing some callout blocks here.
